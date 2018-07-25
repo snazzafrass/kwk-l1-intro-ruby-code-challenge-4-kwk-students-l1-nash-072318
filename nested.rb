@@ -19,7 +19,7 @@ dresser= {
   :bottoms => ["sweatpants", "shorts", "skirts"], 
   :swimsuits => ["high waisted", "bikini", "one piece", "tankini"]
 }
-print dresser
+print dresser[:tops]
 
 dresser[:tops]<< "birthday tee" 
 print dresser [:tops]
