@@ -40,4 +40,4 @@ cents = cents - 1*num_pennies
 puts solution
 end
 
-least_coins(445)
+least_coins(437)
