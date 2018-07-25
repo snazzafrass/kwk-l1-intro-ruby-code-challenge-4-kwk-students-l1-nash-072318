@@ -4,9 +4,12 @@ eubanks = {
   }
   :south_carolina_fam => {
     :greenville => ["tony", "wynee", "kennedy", "aj"],
+  }
+ 
   :california_fam => {
+    :moreno_valley => ["joann"]
+    :los_angeles => ["dee", "hempkey", "maurice"]
+  }
     
-  }
   
-  }
 }
