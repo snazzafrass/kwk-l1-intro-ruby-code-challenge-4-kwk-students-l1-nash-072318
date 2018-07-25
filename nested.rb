@@ -5,6 +5,8 @@ jackets = ["jean", "fur", "bomber"]
 shoes = ["tennis", "heels", "boots", "flats"]
 
 closet = [shirts, pants, jackets, shoes]
+pants << "levis"
 print closet
+
 
 # nested:"an array insde of an array"
