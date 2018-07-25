@@ -17,8 +17,13 @@ shoes = ["tennis", "heels", "boots", "flats"]
 dresser= {
   :tops => ["tank tops", "graphic tee", "dress shirts","blouses"],    
   :bottoms => ["sweatpants", "shorts", "skirts"], 
-  :swimsuits => ["high waisted", "bikini", "one piece", "tankini"]
+  :swimsuits => ["high waisted", "bikini", "one piece", "tankini"], 
+  :footwear => {
+    :sneakers => ["nikes", "vans", "adidas"]
+    :formal => ["dockers", "mary jane", "heels"]
+  } 
 }
+
 print dresser[:tops]
 
 dresser[:tops]<< "birthday tee" 
