@@ -24,7 +24,4 @@ dresser= {
   } 
 }
 
-print dresser[:tops]
-
-dresser[:tops]<< "birthday tee" 
-print dresser [:tops]
+print dresser[:footwear][:formal][0]
