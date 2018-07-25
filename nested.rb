@@ -24,4 +24,4 @@ dresser= {
   } 
 }
 
-print dresser[:footwear][:formal][0]
+print dresser[:footwear][:formal]
