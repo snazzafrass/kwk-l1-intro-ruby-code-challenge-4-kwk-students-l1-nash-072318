@@ -15,4 +15,4 @@ eubanks = {
   
 }
 
-print eubanks 
+print eubanks[:tennesee_fam] 
