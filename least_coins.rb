@@ -12,3 +12,18 @@ puts quarters
 end
 
 least_coins(75)
+
+#write a function that takes a number or cents and gives me how many cents I need 
+
+def least_coins(cents)
+  solution = {}
+  # I need to take coins, and figure out how many quarters I have... 
+  
+  
+num_quarters = cents / 25
+solution[:quarters]= num_quarters
+
+puts solution
+end
+
+least_coins(50)
