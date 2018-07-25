@@ -6,7 +6,7 @@ shoes = ["tennis", "heels", "boots", "flats"]
 
 closet = [shirts, pants, jackets, shoes]
 pants << "levis"
-print closet
+print closet[0]
 
 
 # nested:"an array insde of an array"
