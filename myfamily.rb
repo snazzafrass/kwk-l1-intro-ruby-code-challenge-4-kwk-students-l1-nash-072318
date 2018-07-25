@@ -1,7 +1,6 @@
 eubanks = {
   :tennesee_fam => {
     :nashville => ["melissa", "timothy","aimee"]
-  
   }
 
   :south_carolina_fam =>{
