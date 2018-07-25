@@ -4,7 +4,7 @@ eubanks = {
   
   }
 
-  :southCarolina =>{
+  :south_carolina_fam =>{
     :greenville => ["tony", "wynee", "kennedy", "aj"]
   }
  
