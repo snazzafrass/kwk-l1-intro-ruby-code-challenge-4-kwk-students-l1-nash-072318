@@ -13,3 +13,5 @@ eubanks = {
     
   
 }
+
+print eubanks 
