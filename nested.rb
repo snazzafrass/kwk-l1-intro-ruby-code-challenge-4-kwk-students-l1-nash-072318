@@ -20,3 +20,6 @@ dresser= {
   :swimsuits => ["high waisted", "bikini", "one piece", "tankini"]
 }
 print dresser[:swimsuits][-2]
+
+dresser[:tops]<< "birthday tee" 
+print dresser [:tops]
