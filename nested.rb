@@ -19,7 +19,7 @@ dresser= {
   :bottoms => ["sweatpants", "shorts", "skirts"], 
   :swimsuits => ["high waisted", "bikini", "one piece", "tankini"] 
   :footwear => {
-    :sneakers => ["nikes", "vans", "adidas"]
+    :sneakers => ["nikes", "vans", "adidas"],
     :formal => ["dockers", "mary jane", "heels"]
   } 
 }
