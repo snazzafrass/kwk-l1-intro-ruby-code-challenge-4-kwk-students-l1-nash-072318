@@ -15,6 +15,8 @@ shoes = ["tennis", "heels", "boots", "flats"]
 #try to print out only "fur", and then only "jeans"
 
 dresser= {
-  "tops" => ["tank tops", "graphic tee", "dress shirts", "blouses"],           
+  :tops => ["tank tops", "graphic tee", "dress shirts","blouses"],    
+  :bottoms => ["sweatpants", "shorts", "skirts"], 
+  :swimsuits => ["high waisted", "bikini", "one piece", "tankini"]
 }
 
