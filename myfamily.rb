@@ -3,7 +3,7 @@ eubanks = {
     :nashville => ["melissa", "timothy","aimee"]
   
   }
-}
+
   :south_carolina_fam => {
     :greenville => ["tony", "wynee", "kennedy", "aj"]
   }
