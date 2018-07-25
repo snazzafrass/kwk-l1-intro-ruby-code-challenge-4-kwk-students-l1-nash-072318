@@ -5,4 +5,4 @@ pants = ["jeans", "trousers"
 jackets = ["jean", "fur", "bomber"]
 shoes = ["tennis", "heels", "boots", "flats"]
 
-puts closet
+print closet
